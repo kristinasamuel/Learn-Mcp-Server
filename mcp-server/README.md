@@ -185,7 +185,7 @@ mcp dev server.py
 
 Watch the project walkthrough on YouTube:
 
-[![Watch on YouTube](https://youtu.be/FJVn-CF37WU?si=JWdufCNHShkBcKZg)]
+[![Watch on YouTube](https://youtu.be/FJVn-CF37WU?si=JWdufCNHShkBcKZg)](https://youtube.com)
 
 ---
 
